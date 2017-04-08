@@ -5,3 +5,7 @@ Added forth line using VI.
 Fifth line got added.
 sixth line
 
+**** Testing Merge ****
+test line
+***********************
+
