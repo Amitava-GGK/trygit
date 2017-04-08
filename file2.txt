@@ -3,4 +3,5 @@ Added one line in file2
 This is third line
 Added something in forth lie
 Fifth line
+sixth line
 
