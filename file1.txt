@@ -9,3 +9,5 @@ sixth line
 test line - resolved conflict.
 ***********************
 
+testing remote branch
+
