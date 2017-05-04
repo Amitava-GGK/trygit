@@ -11,3 +11,6 @@ test line - resolved conflict.
 
 testing remote branch
 
+-----------------------
+date: 05/04/2017
+-----------------------
