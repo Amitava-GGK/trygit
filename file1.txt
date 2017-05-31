@@ -18,3 +18,8 @@ date: 05/04/2017
 added lines to test pull request
 
 This is to check if we can add more changes in a feature branch after the merge.
+
+---------------------
+Date: 05/31/2017
+---------------------
+Added a line.
